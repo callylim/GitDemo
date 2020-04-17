@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="73" started-at="2020-04-13T10:44:17 SGT" finished-at="2020-04-13T10:44:17 SGT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="73" started-at="2020-04-13T10:44:17 SGT" finished-at="2020-04-13T10:44:17 SGT">
+      <class name="TestCases.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomaiton()[pri:0, instance:TestCases.SeleniumTest@4fe3c938]" name="BrowserAutomaiton" duration-ms="7" started-at="2020-04-13T10:44:17 SGT" finished-at="2020-04-13T10:44:17 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomaiton -->
+        <test-method status="PASS" signature="elementsUI()[pri:0, instance:TestCases.SeleniumTest@4fe3c938]" name="elementsUI" duration-ms="0" started-at="2020-04-13T10:44:17 SGT" finished-at="2020-04-13T10:44:17 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUI -->
+      </class> <!-- TestCases.SeleniumTest -->
+      <class name="TestCases.AppiumTest">
+        <test-method status="PASS" signature="IOSApps()[pri:0, instance:TestCases.AppiumTest@5383967b]" name="IOSApps" duration-ms="0" started-at="2020-04-13T10:44:17 SGT" finished-at="2020-04-13T10:44:17 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApps -->
+        <test-method status="PASS" signature="NativeAPPAndroid()[pri:0, instance:TestCases.AppiumTest@5383967b]" name="NativeAPPAndroid" duration-ms="2" started-at="2020-04-13T10:44:17 SGT" finished-at="2020-04-13T10:44:17 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAPPAndroid -->
+      </class> <!-- TestCases.AppiumTest -->
+      <class name="TestCases.RestAPITest">
+        <test-method status="PASS" signature="DeleteTwitter()[pri:0, instance:TestCases.RestAPITest@2ac273d3]" name="DeleteTwitter" duration-ms="1" started-at="2020-04-13T10:44:17 SGT" finished-at="2020-04-13T10:44:17 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteTwitter -->
+        <test-method status="PASS" signature="postJirsa()[pri:0, instance:TestCases.RestAPITest@2ac273d3]" name="postJirsa" duration-ms="0" started-at="2020-04-13T10:44:17 SGT" finished-at="2020-04-13T10:44:17 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJirsa -->
+      </class> <!-- TestCases.RestAPITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
